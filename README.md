@@ -1,6 +1,6 @@
-# batterycounter
+# BatteryManager-App
 
-A new Flutter project.
+A Flutter project for my job.
 
 ## Getting Started
 
